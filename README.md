@@ -1,9 +1,9 @@
 # Rishav-s-pet
-A tiby cyborg desktop pet. Lovely cocktail of human and machine floating above your windows and watches your cursor.
+A tiny cyborg desktop pet. Lovely cocktail of human and machine floating above your windows and watches your cursor.
 
 ## What it does
 
-- Its eyes foloow your mouse
+- Its eyes follow your mouse
 - The lens turns pink when you cursor gets close
 - It blinks, and its antenna pulses
 - Right click to close it
